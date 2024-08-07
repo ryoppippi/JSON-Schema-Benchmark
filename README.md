@@ -31,7 +31,9 @@ benchmark start
 
 ## Related
 
-This benchmark code is based on [lukeed/tschema](https://github.com/lukeed/tschema)
+This benchmark code is based on
+[lukeed/tschema](https://github.com/lukeed/tschema)
 
 ## License
+
 [MIT](./LICENSE)
