@@ -1,0 +1,21 @@
+{
+  "name": "json-schema-benchmark",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@antfu/ni": "^0.22.0",
+    "@types/bun": "latest",
+    "ts-patch": "^3.2.1",
+    "typescript": "5.5.2"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.33.0",
+    "tschema": "^3.0.0",
+    "typia": "^6.7.2",
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.23.2"
+  },
+  "scripts": {
+    "prepare": "ts-patch install && typia patch && nlx bunpare"
+  }
+}
