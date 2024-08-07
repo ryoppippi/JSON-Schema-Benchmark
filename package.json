@@ -2,6 +2,7 @@
   "name": "json-schema-benchmark",
   "module": "index.ts",
   "type": "module",
+  "private": true,
   "devDependencies": {
     "@antfu/ni": "^0.22.0",
     "@ryoppippi/unplugin-typia": "npm:@jsr/ryoppippi__unplugin-typia",
