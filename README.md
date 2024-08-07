@@ -34,6 +34,11 @@ benchmark start
 This benchmark code is based on
 [lukeed/tschema](https://github.com/lukeed/tschema)
 
+## Related my projects
+
+- [unplugin-typia](https://github.com/ryoppippi/unplugin-typia)
+- [openai with typia](https://github.com/ryoppippi/openai-with-typia)
+
 ## License
 
 [MIT](./LICENSE)
